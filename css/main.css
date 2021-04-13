@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  margin: auto;
+}
+
+table, th, td {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  empty-cells: show;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  height: 40px;
+  background-color: white;
+}
+
+.green {
+  background-color: green;
+}
